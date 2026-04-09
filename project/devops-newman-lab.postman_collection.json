@@ -1,0 +1,20 @@
+{
+  "info": {
+    "_postman_id": "b046927d-5a74-4214-a53f-0e5432cc9052",
+    "name": "devops-newman-lab",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "53793189",
+    "_collection_link": "https://go.postman.co/collection/53793189-b046927d-5a74-4214-a53f-0e5432cc9052?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Get Users",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
+
